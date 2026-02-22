@@ -1,1 +1,1 @@
-# App-de-tarefas
+# App-de-tarefas pronto para instalar
